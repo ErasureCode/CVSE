@@ -8,6 +8,7 @@ We recommended the following dependencies.
 *  NumPy (>1.12.1)
 *  TensorBoard
 *  torchtext
+*  pycocotools
 
 ## Download data
 Download the dataset files. We use the image feature created by SCAN, downloaded [here](https://github.com/kuanghuei/SCAN). All the data needed for reproducing the experiments in the paper, including image features and vocabularies, can be downloaded from:
