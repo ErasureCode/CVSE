@@ -1,6 +1,48 @@
 # Introdcurion
 This is **Consensus-Aware Visual-Semantic Embedding (CVSE)**, the official source code for the paper Consensus-Aware Visual-Semantic Embedding for Image-Text Matching (ECCV 2020). It is built on top of the [VSE++](https://github.com/fartashf/vsepp) and [SCAN](https://github.com/kuanghuei/SCAN) in PyTorch.
 
+The framework of CVSE:
+![avatar](./figures/framework_CVSE.jpg)
+
+The results on MSCOCO and Flicke30K dataset:
+<table>
+  <tr>
+    <td></td>
+    <td colspan="4">Image-to-Text</td>
+    <td colspan="4">Text-to-Image</td>
+  </tr>
+  <tr>
+    <td>Method</td>
+    <td>R@1</td>
+    <td>R@5</td>
+    <td>R@10</td>
+    <td>R@1</td>
+    <td>R@5</td>
+    <td>R@10</td>
+    <td>MR</td>
+  </tr>
+  <tr>
+    <td>MSCOCO</td>
+    <td>78.6</td>
+    <td>95.0</td>
+    <td>97.5</td>
+    <td>66.3</td>
+    <td>91.8</td>
+    <td>96.3</td>
+     <td>87.6</td>
+  </tr>
+  <tr>  
+    <td>Flickr30k</td>
+    <td>73.6</td>
+    <td>90.4</td>
+    <td>94.4</td>
+    <td>56.1</td>
+    <td>83.2</td>
+    <td>90.0</td>
+    <td>81.3</td>
+  </tr>
+</table>
+
 ## Requirements and Installation
 We recommended the following dependencies.
 *  Python 3.6
