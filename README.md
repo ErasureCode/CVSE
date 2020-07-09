@@ -3,7 +3,7 @@ This is **Consensus-Aware Visual-Semantic Embedding (CVSE)**, the official sourc
 
 The framework of CVSE:
 
-<img src="./figures/framework_CVSE.jpg" width = "50%", height="50%"/>
+<img src="./figures/framework_CVSE.jpg" width = "50%", height="50%">
 
 The results on MSCOCO and Flicke30K dataset:
 <table>
