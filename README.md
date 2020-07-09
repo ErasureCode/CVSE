@@ -2,7 +2,7 @@
 This is **Consensus-Aware Visual-Semantic Embedding (CVSE)**, the official source code for the paper Consensus-Aware Visual-Semantic Embedding for Image-Text Matching (ECCV 2020). It is built on top of the [VSE++](https://github.com/fartashf/vsepp) and [SCAN](https://github.com/kuanghuei/SCAN) in PyTorch.
 
 The framework of CVSE:
-![](./figures/framework_CVSE.jpg =150x100)
+<img src="./figures/framework_CVSE.jpg" width = "60%" />
 
 The results on MSCOCO and Flicke30K dataset:
 <table>
