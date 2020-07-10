@@ -3,7 +3,7 @@ This is **Consensus-Aware Visual-Semantic Embedding (CVSE)**, the official sourc
 
 The framework of CVSE:
 
-<img src="./figures/framework_CVSE.jpg" width = "50%" height="50%">
+<img src="./figures/framework_CVSE.jpg" width = "60%" height="50%">
 
 The results on MSCOCO and Flicke30K dataset:
 <table>
@@ -13,14 +13,14 @@ The results on MSCOCO and Flicke30K dataset:
     <td colspan="4">Text-to-Image</td>
   </tr>
   <tr>
-    <td>Method</td>
+    <td>Dataset</td>
     <td>R@1</td>
     <td>R@5</td>
     <td>R@10</td>
     <td>R@1</td>
     <td>R@5</td>
     <td>R@10</td>
-    <td>MR</td>
+    <td>mR</td>
   </tr>
   <tr>
     <td>MSCOCO</td>
