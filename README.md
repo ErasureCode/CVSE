@@ -1,5 +1,5 @@
 # Introdcurion
-This is **Consensus-Aware Visual-Semantic Embedding (CVSE)**, the official source code for the paper [Consensus-Aware Visual-Semantic Embedding for Image-Text Matching(ECCV 2020)](http://arxiv.org/abs/2007.08883). It is built on top of the [VSE++](https://github.com/fartashf/vsepp) in PyTorch.
+This is **Consensus-Aware Visual-Semantic Embedding (CVSE)**, the official source code for the paper [Consensus-Aware Visual-Semantic Embedding for Image-Text Matching (ECCV 2020)](http://arxiv.org/abs/2007.08883). It is built on top of the [VSE++](https://github.com/fartashf/vsepp) in PyTorch.
 
 **Abstract:**
 
