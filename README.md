@@ -15,6 +15,7 @@ Image-text matching plays a central role in bridging vision and language. Most e
     <td></td>
     <td colspan="3">Image-to-Text</td>
     <td colspan="3">Text-to-Image</td>
+    <td></td>
   </tr>
   <tr>
     <td>Dataset</td>
